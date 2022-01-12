@@ -1,0 +1,16 @@
+[
+{
+  "modid": "globaldist",
+  "name": "Global Distributions",
+  "description": "Power Your Worlds With Something Extra",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sabastian"],
+  "credits": "",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

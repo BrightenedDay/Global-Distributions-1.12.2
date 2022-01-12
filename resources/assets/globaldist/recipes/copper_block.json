@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"XXX",
+		"XXX",
+		"XXX"
+	],
+	
+	"key":
+	{
+		"X":
+		{
+			"item": "globaldist:copper_ingot"
+		}
+	},
+	
+	"result":
+	{
+		"item": "globaldist:copper_block",
+		"count": 1
+	}
+}

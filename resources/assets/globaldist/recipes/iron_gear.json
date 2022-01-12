@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" X ",
+		"XNX",
+		" X "
+	],
+	
+	"key":
+	{
+		"X":
+		{
+			"item": "minecraft:iron_ingot"
+		},
+		"N":
+		{
+			"item": "minecraft:iron_nugget"
+		}
+	},
+	
+	"result":
+	{
+		"item": "globaldist:gear_iron",
+		"count": 1
+	}
+}
