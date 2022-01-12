@@ -1,0 +1,13 @@
+{
+	"variants":
+	{
+		"burning=false,facing=north": { "model": "globaldist:gemstone_compressor" },
+		"burning=false,facing=east": { "model": "globaldist:gemstone_compressor", "y": 90 },
+		"burning=false,facing=south": { "model": "globaldist:gemstone_compressor", "y": 180 },
+		"burning=false,facing=west": { "model": "globaldist:gemstone_compressor", "y": 270 },
+		"burning=true,facing=north": { "model": "globaldist:lit_gemstone_compressor" },
+		"burning=true,facing=east": { "model": "globaldist:lit_gemstone_compressor", "y": 90 },
+		"burning=true,facing=south": { "model": "globaldist:lit_gemstone_compressor", "y": 180 },
+		"burning=true,facing=west": { "model": "globaldist:lit_gemstone_compressor", "y": 270 }
+	}
+}

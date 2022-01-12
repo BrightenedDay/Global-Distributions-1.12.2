@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"variant=copper": { "model": "globaldist:ore_overworld_copper" }
+	}
+}

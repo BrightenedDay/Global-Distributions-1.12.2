@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"IDI",
+		"GXG",
+		"IGI"
+	],
+	
+	"key":
+	{
+		"X":
+		{
+			"item": "minecraft:iron_block"
+		},
+		"G":
+		{
+			"item": "globaldist:gear_iron"
+		},
+		"I":
+		{
+			"item": "minecraft:iron_ingot"
+		},
+		"D":
+		{
+			"item": "minecraft:diamond"
+		}
+	},
+	
+	"result":
+	{
+		"item": "globaldist:gemstone_compressor",
+		"count": 1
+	}
+}
