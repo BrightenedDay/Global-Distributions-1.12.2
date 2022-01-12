@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"X",
+		"X",
+		"S"
+	],
+	
+	"key":
+	{
+		"X":
+		{
+			"item": "globaldist:monsterman_ingot"
+		},
+		"S":
+		{
+			"item": "minecraft:stick"
+		}
+	},
+	
+	"result":
+	{
+		"item": "globaldist:monsterman_sword",
+		"count": 1
+	}
+}

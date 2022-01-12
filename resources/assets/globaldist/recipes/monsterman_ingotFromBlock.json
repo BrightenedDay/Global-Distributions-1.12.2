@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"X"
+	],
+	
+	"key":
+	{
+		"X":
+		{
+			"item": "globaldist:monsterman_block"
+		}
+	},
+	
+	"result":
+	{
+		"item": "globaldist:monsterman_ingot",
+		"count": 9
+	}
+}

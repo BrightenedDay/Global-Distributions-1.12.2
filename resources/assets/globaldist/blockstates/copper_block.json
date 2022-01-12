@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"normal": { "model": "globaldist:copper_block" }
+	}
+}

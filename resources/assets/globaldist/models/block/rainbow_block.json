@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "globaldist:blocks/rainbow_block"
+	}
+}
